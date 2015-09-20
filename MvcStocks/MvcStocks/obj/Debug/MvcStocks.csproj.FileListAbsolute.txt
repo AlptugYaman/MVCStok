@@ -1,0 +1,48 @@
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\MvcStocks.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\MvcStocks.pdb
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\Antlr3.Runtime.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\EntityFramework.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\Newtonsoft.Json.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.Mvc.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.Optimization.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.Providers.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.Razor.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.WebPages.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.WebPages.Razor.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\WebGrease.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\EntityFramework.xml
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\Newtonsoft.Json.xml
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.Mvc.xml
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.Razor.xml
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.WebPages.xml
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\bin\System.Web.WebPages.Razor.xml
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\obj\Debug\MvcStocks.csprojResolveAssemblyReference.cache
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\obj\Debug\MvcStocks.dll
+C:\Users\HISection-2\Documents\HIO_Net\MvcStocks\MvcStocks\obj\Debug\MvcStocks.pdb
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\MvcStocks.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\MvcStocks.pdb
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.Providers.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\obj\Debug\MvcStocks.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\obj\Debug\MvcStocks.dll
+C:\Users\ASUS\Desktop\Yeni Klasör\MvcStocks\MvcStocks\obj\Debug\MvcStocks.pdb
